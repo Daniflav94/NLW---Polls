@@ -1,13 +1,13 @@
 # NLW---Polls
 
 Essa aplicação foi desenvolvida durante as aulas do evento NLW da RocketSeat utilizando as tecnologias: 
--Node.js; 
--Postgres; 
--Prisma; 
--Fastify; 
--Docker; 
--Zod; 
--RedisWebsockets.
+- Node.js; 
+- Postgres; 
+- Prisma; 
+- Fastify; 
+- Docker; 
+- Zod; 
+- RedisWebsockets.
 
 ## Descrição
 
