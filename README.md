@@ -1,7 +1,8 @@
 # NLW---Polls
 
 Essa aplicação foi desenvolvida durante as aulas do evento NLW da RocketSeat utilizando as tecnologias: 
-- Node.js; 
+- Node.js;
+- Typescript;
 - Postgres; 
 - Prisma; 
 - Fastify; 
